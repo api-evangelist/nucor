@@ -1,7 +1,9 @@
 ---
 title: Nucor to Acquire Manufacturer of Data Center Infrastructure
 url: https://nucor.com/news-release/nucor-to-acquire-manufacturer-of-data-center-infrastructure-122554
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Nucor" press release artificial intelligence'
 position: 5
 source: serpapi-google

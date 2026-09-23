@@ -1,7 +1,9 @@
 ---
 title: Nucor launches data center division with $115M acquisition
 url: https://www.facilitiesdive.com/news/nucor-data-center-acquisition/713591/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Nucor" press release artificial intelligence'
 position: 3
 source: serpapi-google

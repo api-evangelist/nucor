@@ -1,7 +1,9 @@
 ---
 title: Nucor leans into automation to boost productivity, safety
 url: https://www.manufacturingdive.com/news/nucor-automation-steel-products-safety-labor-q2-2024-earnings/723405/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Nucor" press release artificial intelligence'
 position: 4
 source: serpapi-google
